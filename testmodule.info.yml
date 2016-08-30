@@ -1,0 +1,4 @@
+name: Test Module
+type: module
+description: Sample module that defines a route and form callback. The EmailDomainValidator service is used to validate an email. The module is created for "Lesson 9: Drupal 8 Testing" as homework.
+core: 8.x
